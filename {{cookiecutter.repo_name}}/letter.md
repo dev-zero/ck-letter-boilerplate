@@ -2,6 +2,7 @@
 # subject: My life as a soldier
 author: {{cookiecutter.author}}
 city: {{cookiecutter.city}}
+# mobile: +12 345 67 89 00
 from:
 - Artillerieregiment, 8. Batt.
 - Nordstraße 15, Naumburg
