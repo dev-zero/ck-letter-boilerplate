@@ -1,0 +1,9 @@
+{
+	"repo_name": "ck-letter-boilerplate",
+	"author": "Your Name",
+	"city": "Your City",
+	"language": "english",
+	"_copy_without_render": [
+		"template.tex"
+	]
+}
